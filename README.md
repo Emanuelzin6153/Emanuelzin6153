@@ -30,6 +30,8 @@ Driven by strong intuitive reasoning, I leverage modern LLM pairing ("vibecoding
 - **Resilience:** Built-in seed tracking and automatic local-minimum escape/retry logic.
 - **Tech Stack:** C99, GCC/Clang optimization flags (`-O2 -Wall -Wextra -lm`).
 
+  **⚠️ Note on Compilation: Due to specific environment dependencies or local configuration quirks, this implementation runs out-of-the-box and seamlessly on online C compilers (like OnlineGDB or Replit), serving as a fast, portable sandbox to test the raw neural network logic.**
+
 ---
 
 ### 💻 Technical Stack & Environment
