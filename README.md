@@ -23,7 +23,7 @@ Driven by strong intuitive reasoning, I leverage modern LLM pairing ("vibecoding
 
 ### 🛠️ Featured Projects
 
-#### ⚡ [Micro-MLP in Pure C](https://github.com/Emanuelzin6153/micro-mlp-c)
+#### ⚡ [Micro-MLP in Pure C] (https://github.com/Emanuelzin6153/mlp-from-scratch-c)
 > **A complete Multilayer Perceptron neural network built from scratch in standard C.**
 - **Zero Frameworks:** Written using only C standard library (`math.h`, `stdlib.h`, `stdio.h`).
 - **Mathematical Depth:** Explicit forward pass, manual MSE error calculation, and backpropagation gradients.
