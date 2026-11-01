@@ -47,7 +47,7 @@ Driven by strong intuitive reasoning, I leverage modern LLM pairing ("vibecoding
 
 ### 📈 Current Focus & Roadmap
 
-- [ ] Dynamic memory allocation (`malloc`/`free`) for arbitrary layer shapes in C.
+- [x] Dynamic memory allocation (`malloc`/`free`) for arbitrary layer shapes in C.
 - [ ] Implementing Xavier/Glorot weight initialization and Cross-Entropy loss.
 - [ ] Deep-diving into the Linux kernel internals and POSIX system calls.
 - [ ] Preparing for Higher Education in Computer Science (IFCE) while targeting global remote roles.
