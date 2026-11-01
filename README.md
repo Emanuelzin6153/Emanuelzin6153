@@ -57,7 +57,7 @@ Driven by strong intuitive reasoning, I leverage modern LLM pairing ("vibecoding
 ### 📬 Connect With Me
 
 - 🐙 **GitHub:** [@Emanuelzin6153](https://github.com/Emanuelzin6153)
-- 💼 **LinkedIn:** [Emanuel's LinkedIn](https://linkedin.com) *(Add your link here)*
+- 💼 **LinkedIn:** [Emanuel's LinkedIn](https://linkedin.com)
 - 🏫 **School:** EEEP Amélia Figueiredo de Lavor (Iguatu - CE, Brazil 🇧🇷)
 
 ---
